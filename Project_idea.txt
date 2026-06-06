@@ -1,0 +1,15 @@
+Idea: BeerBuddy-like app. 
+- Snap a picture of your drink
+- AI will use image recognition to analyze picutre and determine drink
+- Copy a lot of BeerBuddy features (posting, locations, etc.)
+- Will display and log nutritional and alcoholic data
+- User can utilize to track liquid calories, abv, profiles with goals
+- Stats: numbers and nutrition
+- Can add friends to compare stats (competitive drinking)
+- Catalogue of lifetime drinking stats, as well as various drinks
+- Pages
+    - Feed (like BeerBuddy)
+    - Snap/take picture
+    - Stats
+    - Catalogue
+    - Profile
